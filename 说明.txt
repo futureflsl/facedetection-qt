@@ -1,0 +1,1 @@
+这个项目是Presenter Server和qt客户端共存版本,客户端需要client文件夹里面项目配合
